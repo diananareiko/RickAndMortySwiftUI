@@ -1,5 +1,3 @@
----
-
 # **SwiftUI MVVM Clean Architecture Demo**
 
 **SwiftUI MVVM Clean Architecture Demo** is a project designed to demonstrate how to build an app using SwiftUI while following the MVVM architecture pattern and Clean Architecture principles.  
